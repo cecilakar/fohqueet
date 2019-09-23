@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tahraephee.asciimoji.com/sitemap.xml
